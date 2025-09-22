@@ -18,8 +18,19 @@ I use this space to share my learning journey, experiments, and growing projects
 ---
 
 ## 📌 Featured Projects
-- [CalculatorApp](https://github.com/venapp22/CalculatorApp) – Simple calculator built with Kotlin  
-- More projects coming soon...  
+-## Featured Projects  
+
+- [CalculatorApp](https://github.com/VenomX-Meku/ven-meku-calculator) – A simple calculator built with Kotlin
+-  (🚧 Work in Progress 🚧)  
+- More projects coming soon...
+  
+  
+This is a simple calculator app built with **Kotlin**.  
+Currently under development — updates will be added soon.  
+
+Stay tuned!  
+
+
 
 ---
 
