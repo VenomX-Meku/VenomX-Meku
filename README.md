@@ -49,7 +49,9 @@ Android  👇
        
 – A simple calculator built with Kotlin
 (🚧 Work in Progress 🚧)
+
 –This is a simple calculator app built with Kotlin.
+
 –Currently under development — updates will be added soon.))
 
 React  👇
@@ -62,9 +64,12 @@ React  👇
 
 – A simple and modern Todo app built with React Native & Expo.
 (🚧 Work in Progress 🚧)
+
 – My first React app built with Expo
+
 –A beginner-friendly app I’m building while learning React and Expo.
-–Stay tuned  for more projects in both Android and React 🚀))
+
+–Stay tuned  for more projects in both Android and React 🚀
 
 
 
