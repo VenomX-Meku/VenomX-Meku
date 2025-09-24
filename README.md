@@ -42,10 +42,10 @@ I use this space to share my learning journey, experiments, and growing projects
 
 Android
 
-  - [ven-meku-calculator](https://github.com/VenomX-Meku/ven-meku-calculator)  
-  – A simple calculator built with Kotlin  
+  - [ven-meku-calculator](https://github.com/VenomX-Meku/ven-meku-calculator)✅ 
+  
   [![ven-meku-calculator](https://img.shields.io/badge/CalculatorApp-Kotlin-blue?style=for-the-badge&logo=kotlin)](https://github.com/VenomX-Meku/ven-meku-calculator)
-
+ – A simple calculator built with Kotlin 
  
  – A simple calculator built with Kotlin
 (🚧 Work in Progress 🚧)
