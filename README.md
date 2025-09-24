@@ -51,7 +51,12 @@ Currently under development — updates will be added soon.
 
 React
 
-Ven-MekuFirstApp-React
+
+- [VenMeku React Todo App](https://github.com/VenomX-Meku/VenMeku-React-TodoApp) ✅  
+  A simple and modern Todo app built with React Native & Expo.
+  [![VenMeku React Todo App](https://img.shields.io/badge/GitHub-VenMeku%20React%20Todo%20App-blue?logo=github)](https://github.com/VenomX-Meku/VenMeku-React-TodoApp)
+
+
  – My first React app built with Expo
  -A beginner-friendly app I’m building while learning React and Expo.
 
