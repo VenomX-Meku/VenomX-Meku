@@ -40,32 +40,34 @@ I use this space to share my learning journey, experiments, and growing projects
 
 📌 Featured Projects
 
-Android
+Android  👇
 
   - [ven-meku-calculator](https://github.com/VenomX-Meku/ven-meku-calculator)✅ 
   
   [![ven-meku-calculator](https://img.shields.io/badge/CalculatorApp-Kotlin-blue?style=for-the-badge&logo=kotlin)](https://github.com/VenomX-Meku/ven-meku-calculator)
- – A simple calculator built with Kotlin 
  
+       👇
  – A simple calculator built with Kotlin
 (🚧 Work in Progress 🚧)
 
-This is a simple calculator app built with Kotlin.
-Currently under development — updates will be added soon.
+((This is a simple calculator app built with Kotlin.
+Currently under development — updates will be added soon.))
 
-React
+React  👇
 
 
 - [VenMeku React Todo App](https://github.com/VenomX-Meku/VenMeku-React-TodoApp) ✅  
  
   [![VenMeku React Todo App](https://img.shields.io/badge/GitHub-VenMeku%20React%20Todo%20App-blue?logo=github)](https://github.com/VenomX-Meku/VenMeku-React-TodoApp)
+
+      👇
    A simple and modern Todo app built with React Native & Expo.
+        (🚧 Work in Progress 🚧)
 
-
- – My first React app built with Expo
+ –(( My first React app built with Expo
  -A beginner-friendly app I’m building while learning React and Expo.
 
-Stay tuned  for more projects in both Android and React 🚀
+Stay tuned  for more projects in both Android and React 🚀))
 
 
 
