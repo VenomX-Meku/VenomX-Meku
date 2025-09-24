@@ -40,7 +40,7 @@ I use this space to share my learning journey, experiments, and growing projects
 
 📌 Featured Projects
 
-Android  👇
+Android  
 
   - [ven-meku-calculator](https://github.com/VenomX-Meku/ven-meku-calculator)✅ 
   
@@ -54,7 +54,7 @@ Android  👇
 
 –Currently under development — updates will be added soon.))
 
-React  👇
+React  
 
 
 - [VenMeku React Todo App](https://github.com/VenomX-Meku/VenMeku-React-TodoApp) ✅  
