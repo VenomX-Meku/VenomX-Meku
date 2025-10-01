@@ -7,11 +7,6 @@
 
 
 
-Old GitHub:
-## 🗂 Past Projects (Old GitHub: [maksofty](https://github.com/maksofty))
-I also have an older account where I mainly worked with **Java** and early Android projects.  
-Check it out here 👉 [github.com/maksofty](https://github.com/maksofty)
-
 ### 🎓 University & Early Projects (Old GitHub: maksofty)  
 During my university studies, I worked on several projects focusing on **Java, Android (Kotlin/Java)**, and other foundational software engineering tasks.  
 You can explore those works here 👉 [github.com/maksofty](https://github.com/maksofty)  
