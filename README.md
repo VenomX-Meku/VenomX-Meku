@@ -1,14 +1,16 @@
-# 👋 Hi, I'm Mekuanint (VenomX-Meku)
+# 👋 Hi, I'm Mekuanint (  💻 Software Engineer  )
 
 💻 **Mobile App Developer | React Native · TypeScript · Android (Kotlin/Java)**  
 🌍 Ethiopia | 🚀 Open to remote work  
 
-I’m passionate about building **cross-platform mobile apps** with **React Native & TypeScript**,  
-and crafting powerful **Android apps** with **Kotlin & Java**.  
+  
 
-I use this space to share my **learning journey, experiments, and projects**.  
 
-💡 **Mission:** Build apps that solve real problems, while sharing knowledge and growing as a developer.  
+
+Old GitHub:
+## 🗂 Past Projects (Old GitHub: [maksofty](https://github.com/maksofty))
+I also have an older account where I mainly worked with **Java** and early Android projects.  
+Check it out here 👉 [github.com/maksofty](https://github.com/maksofty)
 
 ---
 
