@@ -12,6 +12,11 @@ Old GitHub:
 I also have an older account where I mainly worked with **Java** and early Android projects.  
 Check it out here 👉 [github.com/maksofty](https://github.com/maksofty)
 
+### 🎓 University & Early Projects (Old GitHub: maksofty)  
+During my university studies, I worked on several projects focusing on **Java, Android (Kotlin/Java)**, and other foundational software engineering tasks.  
+You can explore those works here 👉 [github.com/maksofty](https://github.com/maksofty)  
+
+
 ---
 
 ## 🔧 Tech Stack
@@ -37,6 +42,13 @@ Check it out here 👉 [github.com/maksofty](https://github.com/maksofty)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+
+## 📌 Featured Projects
+- [ven-meku-calculator](https://github.com/VenomX-Meku/ven-meku-calculator) ✅  
+  – Simple calculator app built with **Kotlin**  
+- [VenMeku React Todo App](https://github.com/VenomX-Meku/VenMeku-React-TodoApp) ✅  
+  – Beginner-friendly **React Native + Expo** Todo App  
+
 
 ## 📌 Featured Projects
 
