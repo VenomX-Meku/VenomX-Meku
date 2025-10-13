@@ -37,7 +37,7 @@ During my university studies, 👉 [github.com/maksofty](https://github.com/maks
 ## 📌 Featured Projects   
 
 
-### ⚛️ React & React Native
+### 📱 React Native + TypeScript
 - [VenMeku Todo App](https://github.com/VenomX-Meku/VenMeku-Todo-ReactNative) ✅  
   [![VenMeku Todo App](https://img.shields.io/badge/TodoApp-React_Native_TypeScript-blue?logo=react&style=for-the-badge)](https://github.com/VenomX-Meku/VenMeku-Todo-ReactNative)  
   – A modern **To-Do App** built with **React Native + TypeScript**  
