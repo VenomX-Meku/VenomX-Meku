@@ -45,12 +45,13 @@ During my university studies, 👉 [github.com/maksofty](https://github.com/maks
 ---
 
 ### ⚛️ React & React Native
-- [VenMeku React Todo App](https://github.com/VenomX-Meku/VenMeku-React-TodoApp) ✅  
-  [![VenMeku React Todo App](https://img.shields.io/badge/TodoApp-React_Native-blue?logo=react&style=for-the-badge)](https://github.com/VenomX-Meku/VenMeku-React-TodoApp)  
-  – A sleek & modern **To-Do App** built with **React Native + TypeScript**  
-  – Features: Add/Edit/Delete tasks, User Authentication, Profile Page, AsyncStorage offline support, Responsive UI & animations  
-  – Screenshots & Demo included in repo  
-  – (🚀 Newly added 🚀) Modern beginner-to-intermediate friendly project  
+- [VenMeku Todo App](https://github.com/VenomX-Meku/VenMeku-Todo-ReactNative) ✅  
+  [![VenMeku Todo App](https://img.shields.io/badge/TodoApp-React_Native_TypeScript-blue?logo=react&style=for-the-badge)](https://github.com/VenomX-Meku/VenMeku-Todo-ReactNative)  
+  – A modern **To-Do App** built with **React Native + TypeScript**  
+  – Features: Add, Edit, Delete tasks, User Authentication, Profile management, AsyncStorage offline support, Smooth UI & animations  
+  – Includes **screenshots and demo GIF** inside the repo  
+  – (🚀 Newly added 🚀) Beginner-to-intermediate friendly project showcasing **cross-platform mobile development** with TypeScript
+ 
 
 - [VenMeku React Todo App (Expo)](https://github.com/VenomX-Meku/VenMeku-React-TodoApp) ✅  
   [![VenMeku React Todo App](https://img.shields.io/badge/TodoApp-Expo_ReactNative-blue?logo=react&style=for-the-badge)](https://github.com/VenomX-Meku/VenMeku-React-TodoApp)  
