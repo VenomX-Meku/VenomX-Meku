@@ -39,7 +39,7 @@ During my university studies, 👉 [github.com/maksofty](https://github.com/maks
 
 ### 📱 React Native + TypeScript
 - [VenMeku Todo App](https://github.com/VenomX-Meku/VenMeku-Todo-ReactNative) ✅  
-  [![VenMeku Todo App](https://img.shields.io/badge/TodoApp-React_Native_TypeScript-blue?logo=react&style=for-the-badge)](https://github.com/VenomX-Meku/VenMeku-Todo-ReactNative)  
+  
   – A modern **To-Do App** built with **React Native + TypeScript**  
   – Features: Add, Edit, Delete tasks, User Authentication, Profile management, AsyncStorage offline support, Smooth UI & animations  
   – Includes **screenshots and demo GIF** inside the repo  
@@ -49,23 +49,17 @@ During my university studies, 👉 [github.com/maksofty](https://github.com/maks
 
 ### 📱 Android (Kotlin/Java)
 - [ven-meku-calculator](https://github.com/VenomX-Meku/ven-meku-calculator) ✅  
-  [![ven-meku-calculator](https://img.shields.io/badge/CalculatorApp-Kotlin-blue?style=for-the-badge&logo=kotlin)](https://github.com/VenomX-Meku/ven-meku-calculator)  
+ 
   – A simple calculator app built with **Kotlin**  
   – (🚧 Work in Progress 🚧) Under development with planned updates  
 
 ---
 
-### ⚛️ React & React Native
-- [VenMeku Todo App](https://github.com/VenomX-Meku/VenMeku-Todo-ReactNative) ✅  
-  [![VenMeku Todo App](https://img.shields.io/badge/TodoApp-React_Native_TypeScript-blue?logo=react&style=for-the-badge)](https://github.com/VenomX-Meku/VenMeku-Todo-ReactNative)  
-  – A modern **To-Do App** built with **React Native + TypeScript**  
-  – Features: Add, Edit, Delete tasks, User Authentication, Profile management, AsyncStorage offline support, Smooth UI & animations  
-  – Includes **screenshots and demo GIF** inside the repo  
-  – (🚀 Newly added 🚀) Beginner-to-intermediate friendly project showcasing **cross-platform mobile development** with TypeScript
+
  
 
 - [VenMeku React Todo App (Expo)](https://github.com/VenomX-Meku/VenMeku-React-TodoApp) ✅  
-  [![VenMeku React Todo App](https://img.shields.io/badge/TodoApp-Expo_ReactNative-blue?logo=react&style=for-the-badge)](https://github.com/VenomX-Meku/VenMeku-React-TodoApp)  
+    
   – Built with **Expo**, showcasing state management, clean UI, and animations  
 
 ---
