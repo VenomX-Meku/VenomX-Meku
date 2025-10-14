@@ -38,7 +38,9 @@ During my university studies, 👉 [github.com/maksofty](https://github.com/maks
 
 
 ### 📱 React Native + TypeScript
-- [VenMeku Todo App](https://github.com/VenomX-Meku/VenMeku-Todo-ReactNative) ✅  
+- [VenMeku Todo App](https://github.com/VenomX-Meku/VenMeku-Todo-ReactNative) ✅
+- ![Home](https://github.com/user-attachments/assets/295d98fe-66dc-4172-8763-7427e75d41b7)
+ 
   
   – A modern **To-Do App** built with **React Native + TypeScript**  
   – Features: Add, Edit, Delete tasks, User Authentication, Profile management, AsyncStorage offline support, Smooth UI & animations  
