@@ -39,13 +39,34 @@ During my university studies, 👉 [github.com/maksofty](https://github.com/maks
 
 ### 📱 React Native + TypeScript
 - [VenMeku Todo App](https://github.com/VenomX-Meku/VenMeku-Todo-ReactNative) ✅
-- ![Home](https://github.com/user-attachments/assets/295d98fe-66dc-4172-8763-7427e75d41b7)
+
  
   
   – A modern **To-Do App** built with **React Native + TypeScript**  
   – Features: Add, Edit, Delete tasks, User Authentication, Profile management, AsyncStorage offline support, Smooth UI & animations  
   – Includes **screenshots and demo GIF** inside the repo  
   – (🚀 Newly added 🚀) Beginner-to-intermediate friendly project showcasing **cross-platform mobile development** with TypeScript
+
+
+![Home](https://github.com/user-attachments/assets/65f824e1-0de1-4202-b3fa-733230ef7ef6) 
+![Home1](https://github.com/user-attachments/assets/4853bee1-b77a-4296-a76f-aba808875831)  
+![Login](https://github.com/user-attachments/assets/8cac8be8-2a0e-4e8e-b13f-eedcdc83b0e8) 
+![Signup](https://github.com/user-attachments/assets/6be86ca6-1fa6-417c-b4f5-972875fd577c)  
+![Profile](https://github.com/user-attachments/assets/d654571d-0367-4cb3-a4da-28a1da63e7cd) 
+![Profile1](https://github.com/user-attachments/assets/fd608345-37f2-4c45-94a5-bc42ba3bd899)  
+![Task-Detail](https://github.com/user-attachments/assets/8c9213a4-575f-4e3d-8783-371783a8eb17)  
+![Task](https://github.com/user-attachments/assets/4f04bc90-7d14-46b9-b3fe-6f4669d942bd)  
+![Setting](https://github.com/user-attachments/assets/07b94fe7-4442-4f74-9a70-8bb84df96167)
+
+
+
+
+
+
+
+
+
+  
 
 
 
