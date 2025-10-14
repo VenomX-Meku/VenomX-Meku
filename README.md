@@ -64,11 +64,17 @@ During my university studies, 👉 [github.com/maksofty](https://github.com/maks
 
 ---
 
-## 🌱 Learning Goals
-- 🚀 Build & publish Android apps on **Google Play**  
-- 📲 Explore **Jetpack Compose & MVVM** in Android  
-- 🌍 Advance cross-platform dev with **React Native + TypeScript**  
-- ✍️ Share tutorials & code to help beginners  
+
+
+- 🌱 Learning Goals (Updated Focus)
+
+🚀 Master React Native + TypeScript for cross-platform mobile apps (primary focus)
+
+📲 Enhance UI/UX, animations, offline support, and state management in React Native apps
+
+📱 Continue Android development with Kotlin & Jetpack Compose (secondary focus)
+
+✍️ Share tutorials, open-source projects, and code to help beginners and intermediate developers
 
 ---
 
