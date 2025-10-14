@@ -87,6 +87,12 @@ During my university studies, 👉 [github.com/maksofty](https://github.com/maks
 
 📈 Actively contributing to **Android (Kotlin/Java)** and exploring **React & React Native** projects.  
 
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=VenomX-Meku&show_icons=true&theme=tokyonight" alt="VenomX-Meku's GitHub Stats" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenomX-Meku&layout=compact&theme=tokyonight" alt="VenomX-Meku Top Languages" height="165"/> </p>
+
+📈 Actively contributing to React Native + TypeScript projects, with continued work in Android (Kotlin/Java).
+
 ---
 
 ## 🗂 Past Projects (Old GitHub: [maksofty](https://github.com/maksofty))
