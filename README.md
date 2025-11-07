@@ -5,8 +5,8 @@
 
 ---
 
-### 🎓Old GitHub:  👉 [github.com/maksofty](https://github.com/maksofty)   University Projects : 
-During my university studies, 
+# 🎓Old GitHub:       👉 [github.com/maksofty](https://github.com/maksofty)   University Projects (   During my university studies )
+
 
 ---
 
