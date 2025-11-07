@@ -5,8 +5,8 @@
 
 ---
 
-### 🎓 University & Early Projects (Old GitHub: maksofty)  
-During my university studies, 👉 [github.com/maksofty](https://github.com/maksofty)  
+### 🎓Old GitHub:  👉 [github.com/maksofty](https://github.com/maksofty)   University Projects : 
+During my university studies, 
 
 ---
 
